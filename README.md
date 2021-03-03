@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# TASK TRACKER
+This app was created following a [tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8) to refresh on React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
